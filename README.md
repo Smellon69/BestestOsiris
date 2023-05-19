@@ -4,9 +4,7 @@
 
 No linux support.
 
-Thank you S.H.I.T<3
-Osility is named after half of osiris and half of fatality. Interestingly, osilite' in Russian means "defeat"
-This project was changed from Osiris AndExtra project of notgoodusename, and also contributed to the original project
+This is basically me just expirementing with alot of stuff and some things might be buggy.
 
 FEATURES
 
